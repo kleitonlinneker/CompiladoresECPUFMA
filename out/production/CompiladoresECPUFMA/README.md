@@ -19,9 +19,9 @@ O programa implementa, de forma incremental, os conceitos de compiladores como:
 
 ## ✅ Etapas Realizadas
 
-- ✔️ Parte 1 – Analisador Léxico  
-- ✔️ Parte 2 – Analisador Sintático  
-- ✔️ Parte 3 – Árvores Sintáticas Abstratas (AST)  
+- ✔️ Parte 1 – Um simples tradutor
+- ✔️ Parte 2 – Analisador léxico
+- ✔️ Parte 3 – Refatorando o tradutor: incluindo o analisador léxico
 - ✔️ Parte 4 – Tradutor para Notação Pós-fixa  
 - ✔️ Parte 5 – Tradução com Variáveis  
 - ✔️ Parte 6 – Tradução com Comandos de Atribuição  
