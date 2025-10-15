@@ -1,4 +1,4 @@
-# ☕ Simples Tradutor e Interpretador em Java
+# ☕ De um Simples Tradutor a um Simples Interpretador em JAVA
 
 
 Disciplina **Compiladores** – Engenharia da Computação UFMA 
