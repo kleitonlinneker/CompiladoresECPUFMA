@@ -2,9 +2,7 @@
 
 
 Disciplina **Compiladores** – Engenharia da Computação UFMA 
-
 Professor: Sérgio Costa 
-
 Desenvolvedor: Kleiton Linneker Barbosa Pinheiro 
 
 ## 📘 Descrição
