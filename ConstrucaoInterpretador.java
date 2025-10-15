@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Construindo um interpretador!");
+        System.out.println("Testando Sinc GitHub / Intellij!");
     }
 }
